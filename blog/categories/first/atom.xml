@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Up]]></title>
-  <link href="http://zhengdaqi.github.com/blog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: first | Up]]></title>
+  <link href="http://zhengdaqi.github.com/blog/blog/categories/first/atom.xml" rel="self"/>
   <link href="http://zhengdaqi.github.com/blog/"/>
   <updated>2012-11-13T15:02:56+08:00</updated>
   <id>http://zhengdaqi.github.com/blog/</id>
